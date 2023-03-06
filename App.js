@@ -1,3 +1,14 @@
+/*
+* File: App.js
+* Author: tóth júlia
+* Copyright: 2023, tóth julia
+* Group: Szoft 2/n
+* Date: 2023-03-06
+* Github: https://github.com/haribomaci/
+* Licenc: GNU GPL
+*/
+
+
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 import Body from './comps/body';

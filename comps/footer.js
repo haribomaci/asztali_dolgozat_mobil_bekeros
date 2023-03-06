@@ -1,3 +1,14 @@
+/*
+* File: footer.js
+* Author: tóth júlia
+* Copyright: 2023, tóth julia
+* Group: Szoft 2/n
+* Date: 2023-03-06
+* Github: https://github.com/haribomaci/
+* Licenc: GNU GPL
+*/
+
+
 import {StyleSheet, Text, View } from "react-native-web";
 
 export default function Footer(){
